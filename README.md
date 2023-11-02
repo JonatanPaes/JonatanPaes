@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="JonatanPaes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JonatanPaes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="JonatanPaes-NodeJs" height="30" width="40" src="https://www.agenciacrow.com.br/themes/agencia-crow/assets/images/tech/nodejs.png">
+   <img align="center" alt="JonatanPaes-NodeJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png">
   <img align="center" alt="JonatanPaes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="JonatanPaes-NextJs" height="30" width="40" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"/>
   <img align="center" alt="JonatanPaes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
