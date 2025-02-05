@@ -1,40 +1,38 @@
+<h1>👋 &nbsp;Olá, eu sou o Jonatán, um desenvolvedor Front end apaixonado pelo que faz!</h1>
+<p>
+<a href="https://www.linkedin.com/in/jonatanpaes182"><img src="https://img.shields.io/badge/-Jonatán%20Paes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jonatanpaes182@gmail.com"><img src="https://img.shields.io/badge/-jonatanpaes182@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-<!--
-**JonatanPaes/JonatanPaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-Here are some ideas to get you started:
+- 👋 &nbsp;Olá! Sou Jonatán Paes, desenvolvedor Front End.
+- 🚀 &nbsp;Minha Stack é HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS e componentes estilizados.
+- 💡 &nbsp;Atualmente, estou aprofundando meus conhecimentos React Native para desenvolver aplicações mobile.
+- 🎯 &nbsp;Sou movido pela curiosidade e pela constante busca por aprendizado, sempre procurando novas maneiras de aprimorar minhas habilidades e contribuir para projetos inovadores..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Olá eu sou Jonatán Paes, sou desenvolvedor front-end usando ReactJS estou em busca do próximo nível 🚀!
-<div align="center">
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+<div>
   <a href="https://github.com/JonatanPaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatanPaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanPaes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="JonatanPaes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JonatanPaes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="JonatanPaes-NodeJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png">
-  <img align="center" alt="JonatanPaes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="JonatanPaes-NextJs" height="30" width="40" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg"/>
-  <img align="center" alt="JonatanPaes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JonatanPaes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div>
-  <a href = "mailto:jonatanpaes182@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatanpaes182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--  ![Snake animation](https://github.com/JonatanPaes/JonatanPaes/blob/output/github-contribution-grid-snake.svg) -->
- 
 </div>
