@@ -6,7 +6,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👋 &nbsp;Olá! Sou Jonatán Paes, desenvolvedor Front End.
+- 🎓 &nbsp;Formado em Análise e Desenvolvimento de Sistemas.
 - 🚀 &nbsp;Minha Stack é HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS e componentes estilizados.
 - 💡 &nbsp;Atualmente, estou aprofundando meus conhecimentos React Native para desenvolver aplicações mobile.
 - 🎯 &nbsp;Sou movido pela curiosidade e pela constante busca por aprendizado, sempre procurando novas maneiras de aprimorar minhas habilidades e contribuir para projetos inovadores..
